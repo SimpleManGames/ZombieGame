@@ -1,0 +1,11 @@
+Goal:
+	- Make a zombie sim
+	- Circle circle collision
+	- Engine
+	- OpenGl
+	- SDL
+	- glew
+	
+Challenges:
+	- Learning the new graphics libraries
+	- 
